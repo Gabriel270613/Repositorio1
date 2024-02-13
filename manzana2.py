@@ -1,0 +1,7 @@
+print("Hola buenos tardes mi nombre es Gabriel el frutero")
+precioManzana = int(input("Dame el precio de la manzana"))
+CantidadManzana =float(input("Cuantas manzanas quieres?"))
+print(precioManzana)
+print(CantidadManzana)
+print("total a pagar es:")
+print(CantidadManzana * precioManzana)
